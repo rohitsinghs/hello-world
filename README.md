@@ -1,2 +1,3 @@
 # hello-world
-Demo 0 repository
+
+Hello, I want to understand everything about coding
